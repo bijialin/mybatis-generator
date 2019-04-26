@@ -65,6 +65,6 @@
 ````
 ### 6.生成策略：targetRuntime
 
-default：MyBatis3-> crub+example
-	 MyBatis3Simple-> crub
++ default：MyBatis3-> crub+example
++ MyBatis3Simple-> crub
 其他的配置请异步官网：[mybaits](http://www.mybatis.org/generator/configreference/context.html)
