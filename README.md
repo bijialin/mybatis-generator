@@ -61,6 +61,6 @@
 
 ### 5.设置要生成的table信息
 ````
-   <table tableName="t_mybatis_test" domainObjectName="VisitControl" enableCountByExample="false" enableSelectByExample="false"/>
+   <table tableName="t_mybatis_test" domainObjectName="MybatisTest" enableCountByExample="false" enableSelectByExample="false"/>
 ````
 
