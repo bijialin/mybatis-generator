@@ -67,4 +67,4 @@
 
 + default：MyBatis3-> crub+example
 + MyBatis3Simple-> crub
-+ 其他的配置请异步官网：[mybaits](http://www.mybatis.org/generator/configreference/context.html)
++ 其他的配置请移步官网：[mybaits](http://www.mybatis.org/generator/configreference/context.html)
